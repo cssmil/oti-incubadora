@@ -4,7 +4,7 @@
 import Link from "next/link";
 
 const links = [
-  { name: "Incubadora de empresas", href: "incubadora" },
+  { name: "Incubadora de empresass", href: "incubadora" },
   { name: "Concursos", href: "concursosz" },
   { name: "Equipos participantess", href: "equipos-participantes" },
   { name: "Integrantes", href: "integrantes" },
